@@ -16,7 +16,7 @@ audio, video {
 	a{
 		text-decoration-line: none
 	}
-.one{
+.player_one{
 	border: 1px solid black;
 	border-radius: 10px;
 	background-color: white;
@@ -24,7 +24,7 @@ audio, video {
 	margin: 20px;
 }
 
-.two{
+.player_two{
 	border: 1px solid black;
 	border-radius: 10px;
 	background-color: white;
